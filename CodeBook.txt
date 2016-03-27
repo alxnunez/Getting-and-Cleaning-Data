@@ -1,0 +1,13 @@
+#temporals tables:
+subject, subject_train: are tables with a people id who participated in experiment, including labels 
+
+y_test, y_train: are tables with id activities, including labels
+
+tb_test, tb_train: are tables with partial merge operations
+
+tb_mean, tb_std: are tables with a average (tb_mean) and standar deviatio deviation (tb_std) for each measurement.
+ 
+tb_full: (table) is a complete tidy data set (point 1,3,4 complete)
+
+
+tb_4 table: is a independent tidy data set with the average of each variable
