@@ -14,7 +14,7 @@ After, is opening the principal files "X_[phase]" where phase are :test or train
 The labels of data set were taken in features file, thas informatios is procesing to get a appropriately labels (completed point 4 request)
 
 To get a tidy data, the informatios of subjects and activities were get to  files "subject_[phase]"   where phase are :test or train 
-and were labeling there information and finally are Merges in a table (tb_full) to processing the requestment: mean and standar deviations
+and were labeling there information and finally are Merges in a table (tidy_data) to processing the requestment: mean and standar deviations
 
 The tb_4 table is a indepedent tidy data set to point number 5, with average for each activity and each subject.
 
